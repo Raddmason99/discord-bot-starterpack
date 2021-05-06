@@ -23,7 +23,7 @@ npm install
 node index.js
 ```
 ## Author
-@JimmyJuarez10
+[JimmyJuarez10](https://github.com/JimmyJuarez10)
 
 ## Liscence
 Copyright 2021 SHPE-at-UCI
