@@ -18,7 +18,11 @@ git clone https://github.com/your-github-username/discord-bot-starterpack.git
 cd discord-bot-starterpack
 npm install
 ```
-4. Run code
+4. Edit the .env file with **your own DISCORD_API key**
+``` bash
+DISCORD_KEY = FDAFDASFSDFSAFDAS
+```
+5. Run application
 ``` javascript
 node index.js
 ```
