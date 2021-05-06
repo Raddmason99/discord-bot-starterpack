@@ -11,9 +11,9 @@
 ### On your terminal
 2. Clone your Fork on to your local machine
 ``` bash
-git clone https://github.com/your-username/discord-bot-starterpack.git
+git clone https://github.com/your-github-username/discord-bot-starterpack.git
 ```
-3. Change directory and install depencies
+3. Change directory and install dependecies
 ``` bash
 cd discord-bot-starterpack
 npm install
