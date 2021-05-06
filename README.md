@@ -18,6 +18,10 @@ git clone https://github.com/your-github-username/discord-bot-starterpack.git
 cd discord-bot-starterpack
 npm install
 ```
+4. Run code
+``` bash
+node index.js
+```
 ## Author
 
 ## Liscence
