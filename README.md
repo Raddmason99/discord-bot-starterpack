@@ -19,7 +19,7 @@ cd discord-bot-starterpack
 npm install
 ```
 4. Run code
-``` bash
+``` javascript
 node index.js
 ```
 ## Author
