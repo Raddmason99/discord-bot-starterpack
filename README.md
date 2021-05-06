@@ -6,7 +6,7 @@
 - (Optional) Create a Heroku Account to host your bot.
 
 ## Installation
-1. Fork this repository
+1. [Fork this repository](https://github.com/SHPE-at-UCI/discord-bot-starterpack/fork)
 2. Clone your Fork on to your local machine
 ``` bash
 git clone https://github.com/your-username/discord-bot-starterpack.git
