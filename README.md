@@ -7,11 +7,17 @@
 
 ## Installation
 1. [Fork this repository](https://github.com/SHPE-at-UCI/discord-bot-starterpack/fork)
+
+### On your terminal
 2. Clone your Fork on to your local machine
 ``` bash
 git clone https://github.com/your-username/discord-bot-starterpack.git
 ```
-4. 
+3. Change directory and install depencies
+``` bash
+cd discord-bot-starterpack
+npm install
+```
 ## Author
 
 ## Liscence
