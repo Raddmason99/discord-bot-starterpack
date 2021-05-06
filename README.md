@@ -23,5 +23,5 @@ npm install
 node index.js
 ```
 ## Author
-
+@JimmyJuarez10
 ## Liscence
