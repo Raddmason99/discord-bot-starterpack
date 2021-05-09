@@ -1,1 +1,1 @@
-### Discord API Setup
+# Discord API Setup
