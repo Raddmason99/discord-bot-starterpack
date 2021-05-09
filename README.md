@@ -3,9 +3,9 @@ This starter code is meant for anyone to learn how to start/create a Discord bot
 ## Requirements
 * Create a [Discord Developer Account](https://discord.com/developers/applications) and create a bot
   * After logging in , hit on the New Application button on the top right and name your bot.
-  <img src="./CreateApp.png" alt="drawing" width="200"/>
+  <img src="./CreateApp.png" alt="drawing" width="400"/>
   * Enter your own bot name and hit Create
-  <img src="./NameApp.png" alt="drawing" width="200"/>
+  <img src="./NameApp.png" alt="drawing" width="400"/>
 * [NodeJS](https://nodejs.org/en/) v8 or newer. LTS preferred
 * (Optional) Create a Heroku Account to host your bot.
 
