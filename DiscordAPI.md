@@ -6,7 +6,7 @@
  <img src="/img/CreateApp.png" alt="drawing" width="600"/> 
 3. Enter your own bot name and hit Create
  <img src="/img/NameApp.png" alt="drawing" width="400"/>
-4. Take note of the Application ID, we will use this later
+4. Take note of the Application ID, we will use this later <br/>
 5. Head over to Bot on the menu and hit Add Bot
  <img src="/img/CreateBot.png" alt="drawing" width="600"/>
 6. Copy Token and Paste in your .env file. Dont share this token.
