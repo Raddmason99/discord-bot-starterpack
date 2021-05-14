@@ -19,7 +19,7 @@ git clone https://github.com/your-github-username/discord-bot-starterpack.git
 cd discord-bot-starterpack
 npm install
 ```
-4. Create a file called .env and fill it with **your own DISCORD_API key**
+4. Create a file called .env in the parent directory and fill it with **your own DISCORD_API key**
 ``` bash
 DISCORD_KEY = 'ENTER_KEY_HERE_LEAVE_QUOTES'
 ```
